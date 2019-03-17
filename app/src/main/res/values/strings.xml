@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Home Automation System</string>
+    <string name="action_settings">Sign Out</string>
+    <string name="title_activity_admin_page">Admin Page</string>
+    <string name="title_activity_switches_list_page">Your Switches</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+</resources>
